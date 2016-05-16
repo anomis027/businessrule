@@ -227,8 +227,6 @@ $(document).ready(function() {
     }
 });
 
-
-
 //CONTACT FORM VALIDATION
 $(document).ready(function() {
 
