@@ -518,42 +518,20 @@ home-btn:visited {
 /*---------------------------------------
    SECTION CONTACT
 -----------------------------------------*/
-.contact {
-  background-image: url(../images/contact-background.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-.title-contact h2 {
-  color: #fff;
-  margin-top: 100px;
-  text-transform: uppercase;
-  text-align: center;
-  position: relative;
-  font-size: 30px;
-  font-weight: 400;
-}
-.title-contact h2:after {
-  content:"";
-  position: absolute;
-  bottom: -20px;
-  width: 60px;
-  background-color: #00aaff;
-  left: 50%;
-  margin-left: -30px;
-}
-.title-contact p{
-  text-align: center;
-  margin-top: 45px;
-  color:#ccc;
-  font-size: 18px;
-  line-height: 20px;
-  font-weight: 300;
-}
-.contact-form {
-  padding-top: 30px
-}
 
+.jumbotron {
+background: #358CCE;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
 /*---------------------------------------
    SECTION FOOTER
 -----------------------------------------*/
